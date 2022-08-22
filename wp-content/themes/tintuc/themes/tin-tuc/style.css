@@ -1,0 +1,24 @@
+/*
+Theme Name: Tin tức
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+.meta-related ul li a{color: #0092ff;} .meta-related ul li{line-height: 20px;} .meta-related ul{margin-left: 10px}
+
+
+/* Dành cho điện thoại */
+@media all and (max-width: 480px) {
+.list-news li{width:50%}
+.list-news{width:100%}
+ 
+}
+ 
+/* Dành cho máy tính bảng */
+@media all and (max-width: 1024px) {
+ 
+}
